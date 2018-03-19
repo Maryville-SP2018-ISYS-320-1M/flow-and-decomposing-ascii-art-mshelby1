@@ -1,7 +1,7 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Matthew Shelby
+  	Date: 3/18/2018
 */
 
 // 4. Your pseudocode algorithm for how to break down the figure
