@@ -1,7 +1,7 @@
 /*
   	ISYS 320
-  	Name(s): Matthew Shelby
-  	Date: 3/18/2018
+  	Name(s):  Matthew Shelby
+  	Date:  3/18/2018
 */
 
 // 1. Your predicted output: This is message1. This is message2. This is message1. Done with message 2. Done with main.
@@ -25,7 +25,7 @@ public class Tricky {
     }
 }
 
-// 3. Were you correct? Explain any differences: My prediction was correct.
+// 3. Were you correct? Explain any differences:  My prediction was correct.
  
  
 
